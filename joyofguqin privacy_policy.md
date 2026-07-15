@@ -1,6 +1,6 @@
 # Privacy Policy · 隐私政策
 
-**Star Park 星园 ASD**
+**Star Park 星园 **
 Last Updated · 最后更新：2026年6月
 
 Developer · 开发者：Hongxia Wu
@@ -12,7 +12,7 @@ Contact · 联系方式：starparkasd428@gmail.com
 
 ### 1. Introduction
 
-Star Park ASD ("we", "our", or "the App") is a music therapy application designed to support children with autism spectrum disorder (ASD) through traditional Chinese Guqin music. We are committed to protecting the privacy of all users, especially children.
+Star Park ("we", "our", or "the App") is an interactive educational and sensory development application designed to support children's growth, focus, and emotional well-being through traditional Chinese Guqin music. We are committed to protecting the privacy of all users, especially children.
 
 ### 2. Information We Collect
 
@@ -40,7 +40,7 @@ We do not sell, rent, or share personal data with third parties for marketing pu
 
 ### 4. Children's Privacy (COPPA Compliance)
 
- Star Park ASD is designed for use with children under the supervision of a parent, guardian, or therapist. We comply with the Children's Online Privacy Protection Act (COPPA).
+ Star Park is designed for use with children under the supervision of a parent, guardian, or therapist. We comply with the Children's Online Privacy Protection Act (COPPA).
 
 - We do not knowingly collect personal information from children under 13 without verifiable parental consent
 - All session data is anonymous and identified only by a randomly generated device ID
@@ -85,7 +85,7 @@ Email: starparkasd428@gmail.com
 
 ### 1. 简介
 
-星园（"我们"或"本应用"）是一款专为自闭症谱系障碍（ASD）儿童设计的古琴音乐疗愈应用程序。我们致力于保护所有用户，尤其是儿童的隐私。
+星园（"我们"或"本应用"）是一款专为儿童设计的古琴音乐情绪引导应用程序。我们致力于保护所有用户，尤其是儿童的隐私。
 
 ### 2. 我们收集的信息
 
