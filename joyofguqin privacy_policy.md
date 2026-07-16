@@ -30,17 +30,15 @@ Star Park ("we", "our", or "the App") is an interactive educational and sensory 
 - Contacts or communications
 
 ### 3. How We Use Information
-
-We use the collected data solely for:
-- Displaying progress reports within the app
-- Improving therapeutic effectiveness through anonymized research
-- Supporting patent and academic research on music therapy for ASD children
-
-We do not sell, rent, or share personal data with third parties for marketing purposes.
+The collected data (excluding any user photos) is used solely for:
+- Generating internal progress and focus reports for parents or users within the App
+- Optimizing the acoustic interactive and emotional guidance experience based on anonymized feedback
+- Supporting academic research regarding the relationship between Guqin music and focus/emotional relaxation
+We do not sell, rent, or share any personal data with third parties for marketing or advertising purposes.
 
 ### 4. Children's Privacy (COPPA Compliance)
 
- Star Park is designed for use with children under the supervision of a parent, guardian, or therapist. We comply with the Children's Online Privacy Protection Act (COPPA).
+ Star Park is designed for use with children under the supervision of a parent, guardian, or caregiver. We comply with the Children's Online Privacy Protection Act (COPPA).
 
 - We do not knowingly collect personal information from children under 13 without verifiable parental consent
 - All session data is anonymous and identified only by a randomly generated device ID
@@ -103,17 +101,15 @@ Email: starparkasd428@gmail.com
 - 通讯录或通讯内容
 
 ### 3. 信息使用方式
-
-我们收集的数据仅用于：
-- 在应用内显示进度报告
-- 通过匿名化研究提升疗愈效果
-- 支持古琴音乐干预自闭症儿童的专利申请和学术研究
-
-我们不会出售、出租或向第三方共享个人数据用于营销目的。
+我们收集的数据（不含照片）仅用于：
+- 在应用内为家长或用户生成学习与专注力进度报告
+- 通过匿名化数据反馈，不断优化应用的音律交互与情绪引导体验
+- 支持古琴音律在专注力训练与情绪放松领域的学术研究
+我们绝不会将任何个人数据出售、出租或用于商业广告目的。
 
 ### 4. 儿童隐私保护（COPPA合规）
 
-星园专为在家长、监护人或治疗师监督下使用的儿童设计。我们遵守《儿童网络隐私保护法》（COPPA）。
+星园专为在家长、监护人或照护者监督下使用的儿童设计。我们遵守《儿童网络隐私保护法》（COPPA）。
 
 - 未经可核实的家长同意，我们不会有意收集13岁以下儿童的个人信息
 - 所有会话数据均为匿名，仅通过随机生成的设备ID标识
