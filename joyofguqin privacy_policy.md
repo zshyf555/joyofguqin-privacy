@@ -20,7 +20,7 @@ Star Park ("we", "our", or "the App") is an interactive educational and sensory 
 - Device identifier (a randomly generated anonymous ID, not linked to any personal identity)
 - Session duration (how long a user engages with each module)
 - Emotional state selections (mood icons chosen before and after sessions)
-- Attention ratings (entered by parents or therapists)
+- Attention ratings (entered by parents or caregiver)
 - App version and usage data
 
 **Information we do NOT collect:**
@@ -91,7 +91,7 @@ Email: starparkasd428@gmail.com
 - 设备标识符（随机生成的匿名ID，不与任何个人身份关联）
 - 练习时长（用户在每个模块的使用时间）
 - 情绪状态选择（练习前后选择的情绪图标）
-- 注意力评分（由家长或治疗师输入）
+- 注意力评分（由家长或照护者输入）
 - 应用版本和使用数据
 
 **我们不收集的信息：**
