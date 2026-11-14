@@ -1,149 +1,54 @@
 # Privacy Policy · 隐私政策
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Star Park - Privacy Policy</title>
+  <style>
+    body { font-family: Arial, sans-serif; max-width: 800px; margin: 40px auto; padding: 20px; line-height: 1.8; color: #333; }
+    h1 { color: #8B2323; }
+    h2 { color: #8B2323; margin-top: 30px; }
+    p { margin: 10px 0; }
+    a { color: #8B2323; }
+  </style>
+</head>
+<body>
+  <h1>Privacy Policy · 隐私政策</h1>
+  <p><strong>Star Park · 愉悦古琴</strong></p>
+  <p>Last Updated · 最后更新：November 13, 2026</p>
+  <p>Developer · 开发者：Hongxia Wu</p>
+  <p>Contact · 联系方式：<a href="mailto:starparkasd428@gmail.com">starparkasd428@gmail.com</a></p>
 
-**Star Park 星园 **
-Last Updated · 最后更新：2026年6月
+  <h2>1. Information Stored in the App · 应用内保存的信息</h2>
+  <p>The app stores the following on your device only: play progress and rewards, and optional records that a parent or caregiver chooses to enter (mood before and after a session, a focus rating, and session duration). We do NOT collect names, photos, contacts, or location data, and the app does not require an account.</p>
+  <p>应用只在您的设备上保存以下内容：游玩进度与奖励，以及家长或照护者自愿输入的记录（练习前后的心情、专注程度和练习时长）。我们不收集姓名、照片、通讯录或位置信息，使用应用也无需注册账号。</p>
 
-Developer · 开发者：Hongxia Wu
-Contact · 联系方式：starparkasd428@gmail.com
+  <h2>2. Children's Privacy · 儿童隐私保护</h2>
+  <p>Star Park is designed to be used by children together with a parent or caregiver. We do not knowingly collect personal information from children. The app contains no advertising and no third-party analytics or tracking.</p>
+  <p>Star Park 为儿童在家长或照护者陪伴下使用而设计。我们不会有意收集儿童的个人信息。应用不含广告，也不含第三方统计或跟踪工具。</p>
 
----
+  <h2>3. How Information Is Used · 信息使用方式</h2>
+  <p>Records are used only inside the app, to show progress and the parent's mood and focus log. We do not sell, share or transfer this data to anyone.</p>
+  <p>这些记录仅在应用内使用，用于显示进度以及家长页的情绪与专注记录。我们不会出售、共享或转让这些数据。</p>
 
-## English Version
+  <h2>4. Data Storage and Retention · 数据存储与保留</h2>
+  <p>All records are stored locally on your own device. They are not uploaded to any server or cloud service, and the developer cannot see them. Records stay on the device until you delete the app or clear its data, which permanently removes them.</p>
+  <p>所有记录只保存在您自己的设备（手机）本地，不会上传到任何服务器或云服务，开发者也无法查看。记录会一直保留在设备上，直到您卸载应用或清除应用数据，届时记录将被永久删除。</p>
 
-### 1. Introduction
+  <h2>5. Purchases · 购买</h2>
+  <p>If you subscribe to optional paid features, the purchase is processed by Google Play. We do not receive or store your payment card details. Google handles billing under its own privacy policy.</p>
+  <p>如果您订阅可选的付费功能，购买由 Google Play 处理。我们不会接收或保存您的银行卡等支付信息，计费由 Google 按其自身隐私政策处理。</p>
 
-Star Park ("we", "our", or "the App") is an interactive educational and sensory development application designed to support children's growth, focus, and emotional well-being through traditional Chinese Guqin music. We are committed to protecting the privacy of all users, especially children.
+  <h2>6. Your Rights · 您的权利</h2>
+  <p>Because your records stay on your device, you control them: you can delete them at any time by uninstalling the app or clearing its data. If you have any question about this policy, contact us at <a href="mailto:starparkasd428@gmail.com">starparkasd428@gmail.com</a></p>
+  <p>由于记录保存在您的设备上，您可以自行控制：随时卸载应用或清除应用数据即可删除。如对本政策有任何疑问，请联系：<a href="mailto:starparkasd428@gmail.com">starparkasd428@gmail.com</a></p>
 
-### 2. Information We Collect
+  <h2>7. Changes to This Policy · 政策变更</h2>
+  <p>If we change how data is handled (for example, when a subscription service is added), we will update this page and the date above.</p>
+  <p>如果数据处理方式发生变化（例如新增订阅管理服务），我们会更新本页面及上方的日期。</p>
 
-**Information collected automatically:**
-- Device identifier (a randomly generated anonymous ID, not linked to any personal identity)
-- Session duration (how long a user engages with each module)
-- Emotional state selections (mood icons chosen before and after sessions)
-- Attention ratings (entered by parents or caregiver)
-- App version and usage data
-
-**Information we do NOT collect:**
-- Name, address, or personal identity information
-- Photos or images uploaded by users (stored locally on device only)
-- Location data
-- Contacts or communications
-
-### 3. How We Use Information
-The collected data (excluding any user photos) is used solely for:
-- Generating internal progress and focus reports for parents or users within the App
-- Optimizing the acoustic interactive and emotional guidance experience based on anonymized feedback
-- Supporting academic research regarding the relationship between Guqin music and focus/emotional relaxation
-We do not sell, rent, or share any personal data with third parties for marketing or advertising purposes.
-
-### 4. Children's Privacy (COPPA Compliance)
-
- Star Park is designed for use with children under the supervision of a parent, guardian, or caregiver. We comply with the Children's Online Privacy Protection Act (COPPA).
-
-- We do not knowingly collect personal information from children under 13 without verifiable parental consent
-- All session data is anonymous and identified only by a randomly generated device ID
-- Parents or guardians may request deletion of all data associated with their device by contacting us at starparkasd428@gmail.com
-- No behavioral advertising is directed at children
-
-### 5. Data Storage and Security
-
-- Session data is stored locally on the user's device
-- Anonymized session records are backed up to secure cloud storage (JSONBin.io) for research purposes
-- We use industry-standard security measures to protect stored data
-- Data is retained for a maximum of 12 months for research analysis
-
-### 6. Third-Party Services
-
-This app uses the following third-party service:
-- **JSONBin.io** – for anonymous cloud data backup (privacy policy: jsonbin.io/privacy)
-
-### 7. Your Rights
-
-You have the right to:
-- Access the data associated with your device
-- Request deletion of all your data
-- Opt out of cloud data backup (contact us to disable)
-
-To exercise any of these rights, contact:  starparkasd428@gmail.com
-
-### 8. Changes to This Policy
-
-We may update this Privacy Policy from time to time. We will notify users of significant changes by updating the "Last Updated" date above. Continued use of the app after changes constitutes acceptance of the updated policy.
-
-### 9. Contact Us
-
-If you have any questions about this Privacy Policy, please contact:
-
-**Hongxia Wu**
-Email: starparkasd428@gmail.com
-
----
-
-## 中文版本
-
-### 1. 简介
-
-星园（"我们"或"本应用"）是一款专为儿童设计的古琴音乐情绪引导应用程序。我们致力于保护所有用户，尤其是儿童的隐私。
-
-### 2. 我们收集的信息
-
-**自动收集的信息：**
-- 设备标识符（随机生成的匿名ID，不与任何个人身份关联）
-- 练习时长（用户在每个模块的使用时间）
-- 情绪状态选择（练习前后选择的情绪图标）
-- 注意力评分（由家长或照护者输入）
-- 应用版本和使用数据
-
-**我们不收集的信息：**
-- 姓名、地址或个人身份信息
-- 用户上传的照片或图片（仅存储在本地设备）
-- 位置数据
-- 通讯录或通讯内容
-
-### 3. 信息使用方式
-我们收集的数据（不含照片）仅用于：
-- 在应用内为家长或用户生成学习与专注力进度报告
-- 通过匿名化数据反馈，不断优化应用的音律交互与情绪引导体验
-- 支持古琴音律在专注力训练与情绪放松领域的学术研究
-我们绝不会将任何个人数据出售、出租或用于商业广告目的。
-
-### 4. 儿童隐私保护（COPPA合规）
-
-星园专为在家长、监护人或照护者监督下使用的儿童设计。我们遵守《儿童网络隐私保护法》（COPPA）。
-
-- 未经可核实的家长同意，我们不会有意收集13岁以下儿童的个人信息
-- 所有会话数据均为匿名，仅通过随机生成的设备ID标识
-- 家长或监护人可通过联系 starparkasd428@gmail.com 请求删除与其设备相关的所有数据
-- 不针对儿童进行行为广告投放
-
-### 5. 数据存储与安全
-
-- 会话数据存储在用户本地设备上
-- 匿名会话记录会备份至安全云端存储（JSONBin.io）用于研究目的
-- 我们采用行业标准安全措施保护存储数据
-- 数据最长保留12个月用于研究分析
-
-### 6. 第三方服务
-
-本应用使用以下第三方服务：
-- **JSONBin.io** – 用于匿名云端数据备份（隐私政策：jsonbin.io/privacy）
-
-### 7. 您的权利
-
-您有权：
-- 访问与您设备相关的数据
-- 请求删除您的所有数据
-- 选择退出云端数据备份（联系我们关闭）
-
-如需行使上述任何权利，请联系：starparkasd428@gmail.com
-
-### 8. 政策变更
-
-我们可能会不时更新本隐私政策。重大变更时，我们将通过更新上方"最后更新"日期通知用户。变更后继续使用本应用即表示接受更新后的政策。
-
-### 9. 联系我们
-
-如您对本隐私政策有任何疑问，请联系：
-
-**吴红霞（Hongxia Wu）**
-邮箱：starparkasd428@gmail.com 
+  <h2>8. Contact · 联系我们</h2>
+  <p>Hongxia Wu · <a href="mailto:starparkasd428@gmail.com">starparkasd428@gmail.com</a></p>
+</body>
+</html>
